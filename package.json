@@ -1,0 +1,25 @@
+{
+  "name": "ejercicio_templates_-_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/midifi26/Ejercicio_templates_-_node.git"
+  },
+  "author": "Michelle Diaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/midifi26/Ejercicio_templates_-_node/issues"
+  },
+  "homepage": "https://github.com/midifi26/Ejercicio_templates_-_node#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "pug": "^3.0.3"
+  }
+}
